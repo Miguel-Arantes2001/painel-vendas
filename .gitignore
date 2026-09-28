@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Build do executavel (regeneravel com o .spec)
+build/
+dist/
+*.zip
+
+# Streamlit
+.streamlit/secrets.toml

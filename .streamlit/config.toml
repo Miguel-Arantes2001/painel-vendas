@@ -1,0 +1,10 @@
+[theme]
+# Azul como cor principal/neutra. O vermelho fica reservado para alertas nos graficos.
+primaryColor = "#1F4E79"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F7FB"
+textColor = "#2C3E50"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
